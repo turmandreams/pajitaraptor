@@ -7,8 +7,8 @@ Pajitaraptor es un robot siguelineas. La idea es hacer un robot siguelineas lo m
 PAJITARAPTOR FOTOS
 ----------------------
 
-![alt text]([https://github.com/turmandreams/pajitaraptor/blob/main/fotos/7.jpg](https://github.com/turmandreams/pajitaraptor/blob/main/fotos/7.jpg))
-![alt text]([https://github.com/turmandreams/pajitaraptor/blob/main/fotos/9.jpg](https://github.com/turmandreams/pajitaraptor/blob/main/fotos/9.jpg))
+![alt text](/fotos/7.jpg))
+![alt text](/fotos/9.jpg))
 
 
 
