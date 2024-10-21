@@ -4,6 +4,16 @@ INFORMATION
 Pajitaraptor es un robot siguelineas. La idea es hacer un robot siguelineas lo más sencillo posible y con materiales reutilizados.
 
 
+PAJITARAPTOR FOTOS
+----------------------
+
+[![Alt text]([https://img.youtube.com/vi/Dyhbn8IVR08/0.jpg](https://github.com/turmandreams/pajitaraptor/blob/main/fotos/7.jpg
+))]
+[![Alt text]([https://img.youtube.com/vi/Dyhbn8IVR08/0.jpg](https://github.com/turmandreams/pajitaraptor/blob/main/fotos/9.jpg
+))]
+
+
+
 PAJITARAPTOR VIDEOS
 ----------------------
 
